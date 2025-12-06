@@ -1,0 +1,1601 @@
+Timestamp,Query,Patent Number,Title,Abstract,Date,Assignee,Summary
+2025-12-06T13:36:48.345584,Blockchain technology,patent/JP6364132B2/en,Blockchain transaction recording system and method,"Blockchain technology (sometimes simply called blockchain) is a relatively new technology that has been used to implement digital currency. It is described in a 2008 paper titled “Bitcoin: A Peer-to-Peer Electronic Cash System” by Satoshi Nakamoto, the entire contents of which are incorporated …",2018-07-25,ナスダック， インコーポレイテッドＮａｓｄａｑ， Ｉｎｃ．,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/JP6636058B2/en,Source guarantee system and method in a distributed transaction database,"Blockchain technology (sometimes simply called blockchain) is a relatively new type of database technology. An exemplary implementation and corresponding blockchain technology is described in a 2008 article by Satoshi Nakamoto entitled ""Bitcoin: A Peer-to-Peer Electronic Cash System"", the entire …",2020-01-29,ナスダック， インコーポレイテッドＮａｓｄａｑ， Ｉｎｃ．,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN107423945B/en,Intelligent energy transaction management system and method based on blockchain …,"9. The smart energy transaction management method based on blockchain technology according to claim 6, wherein the smart contract execution step further comprises the following payment verification process: After the payment data collection and verification module receives the payment verification …",2020-12-29,葛武,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN110287167B/en,System and method for managing heritage based on blockchain technology,"The invention relates to the technical field of data storage technology and information security, in particular to a system and a method for managing a legacy based on a blockchain technology. The legacy management system comprises a data driving layer, a service logic layer and an application …",2023-11-21,安徽中科晶格技术有限公司,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN109871669B/en,A data sharing solution based on blockchain technology,"A data sharing solution based on blockchain technology technical field The invention belongs to the field of resource aggregation, and in particular relates to a data sharing solution based on block chain technology. Background technique In today's era, the Internet industry is developing rapidly, …",2023-02-10,哈尔滨工程大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/TWI666902B/en,Robust ATM network system and information processing method based on blockchain …,"The information processing method in a robust ATM network system based on blockchain technology according to claim 7, wherein the transaction information processing step includes the following sub-steps: the ATM node implements asymmetric transaction information generated Encryption processing;",2019-07-21,大陸商中國銀聯股份有限公司,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/US12260466B2/en,"Distributed ledger and blockchain technology-based recruitment, job searching …",The present invention can be utilized in connection with a distributed ledger and blockchain technology system to provide a secured record keeping system of and for any other information and/or data processed and/or stored by the present invention in any and/or all of the embodiments described …,2025-03-25,Raymond Anthony Joao,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN114065265B/en,"… access control method, system and equipment based on blockchain technology","3. The fine-grained cloud storage access control method based on the blockchain technology according to claim 1, wherein the modification of the attribute base ciphertext and the corresponding original block by the intelligent contract according to the block identifier includes traversing access …",2024-04-16,重庆邮电大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN108632293B/en,… system and method for construction equipment based on blockchain technology,"4. a kind of building equipment Internet of Things system based on blockchain technology as claimed in claim 1, is characterized in that: described building equipment Internet of Things system is a multi-Agent system, and Internet of Things nodes are regarded as individual Agents, using Information …",2021-08-06,山东建筑大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN112313916B/en,… for mimetic storage of tamper-proof logs integrated with blockchain technology,"10. The system for pseudo-storing the tamper-proof log according to the fused blockchain technology of claim 9, wherein the log storage query is divided into a fast query and a secure query, and the fast query includes: a quick request sending unit, for sending the query request through the query …",2023-01-17,北京大学深圳研究生院,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/US11893626B2/en,Method for creating commodity assets from unrefined commodity reserves …,"Blockchain technology has been used for tracking the origins of gemstones and other precious commodities. In 2016, The Wall Street Journal reported that the blockchain technology company, Everledger was partnering with IBM's blockchain-based tracking service to trace the origin of diamonds to …",2024-02-06,Stichting Ip-Oversight,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN107508859B/en,Vehicle communication method based on blockchain technology in vehicle self- …,"Vehicle communication method based on blockchain technology in vehicle self-organizing network technical field The invention relates to the technical field of vehicle-mounted self-organizing network communication security, in particular to a vehicle communication method based on blockchain …",2020-02-21,北京交通大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN113169952B/en,A container cloud management system based on blockchain technology,"Compared with the existing technology, the above-mentioned container cloud management system based on blockchain technology provided by the present invention can enable users to have their own management authority over their own resources, and neither the platform nor any third party can operate …",2022-12-02,北京连云决科技有限公司,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN109922039B/en,A semi-centralized identity management method based on blockchain technology,"2. The semi-centralized identity management method based on blockchain technology according to claim 1, wherein the user registration operation process at least further comprises the following steps: Step 311: The user requests registration from the first-level node in the identity management …",2021-05-07,湘潭大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN108564471B/en,… intelligent transaction system and method based on blockchain technology,"4. The energy internet security intelligent trading system based on blockchain technology according to claim 1, wherein the blockchain energy trading platform adopts smart contract technology, and when both parties of the transaction complete the agreed contract conditions, Smart contracts stored …",2022-05-31,南京邮电大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN110414203B/en,An Internet medical identity authentication method based on blockchain …,"SUMMARY OF THE INVENTION The purpose of the present invention is to provide an Internet medical identity authentication method based on blockchain technology, which solves the technical problems of data security storage and identity authentication. To achieve the above object, the present invention …",2022-06-17,郑州大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN112651052B/en,A data rights confirmation method and system based on blockchain technology,"5. The blockchain technology based data validation system of claim 4, wherein the client is further configured to perform the steps of: generating a block chain address for the data to be authenticated, generating a data DID document when generating a data DID according to the block chain address, …",2024-08-30,江苏通付盾科技有限公司,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/US20240419766A1/en,Secure Messaging Service with Digital Rights Management Using Blockchain …,"CROSS-REFERENCE TO RELATED APPLICATIONS This application is a continuation of U.S. patent application Ser. No. 17/528,178, filed Nov. 16, 2021, entitled “SECURE MESSAGING SERVICE WITH DIGITAL RIGHTS MANAGEMENT USING BLOCKCHAIN TECHNOLOGY”, which is a continuation of U.S. patent application Ser. No …",2024-12-19,"Datchat, Inc.","**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN109360100B/en,Method and device for fast confirmation of transaction based on blockchain …,"4. A transaction rapid confirmation apparatus based on blockchain technology, comprising: the initialization module is used for confirming the node identity and electing a consensus committee and a committee leader; the initialization module is further used for randomly selecting a private key …",2020-11-13,北京航空航天大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."
+2025-12-06T13:36:48.345584,Blockchain technology,patent/CN108389046B/en,A privacy protection transaction method based on blockchain technology in e- …,"3 and 4, the method of the present invention includes the following two stages: Negotiation Phase: During the negotiation phase, users' private information is protected by adopting blockchain technology including privacy smart contracts and zero-knowledge proofs. Specifically, each transaction is …",2020-08-28,西安交通大学,"**Patent Analysis Report**
+
+This report provides a comprehensive summary of 20 patents related to blockchain technology, covering various applications and innovations. The patents are categorized into four main areas: Financial and Transactional Systems, Data Management and Security, Identity and Authentication, and Internet of Things (IoT) and Smart Systems.
+
+**Financial and Transactional Systems**
+
+1. **Blockchain Transaction Recording System and Method** (JP6364132B2/en, 2018)
+	* Overview: A blockchain-based transaction recording system and method for secure and transparent financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and transparent financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+2. **Source Guarantee System and Method in a Distributed Transaction Database** (JP6636058B2/en, 2020)
+	* Overview: A blockchain-based source guarantee system and method for ensuring the authenticity of transactions in a distributed database.
+	* Innovations: Utilizes blockchain technology to ensure the authenticity of transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+3. **Intelligent Energy Transaction Management System and Method based on Blockchain** (CN107423945B/en, 2020)
+	* Overview: An intelligent energy transaction management system and method based on blockchain technology for secure and efficient energy trading.
+	* Innovations: Utilizes blockchain technology for secure and efficient energy trading.
+	* Applications: Energy trading platforms, smart grids, and renewable energy systems.
+
+**Data Management and Security**
+
+4. **System and Method for Managing Heritage based on Blockchain Technology** (CN110287167B/en, 2023)
+	* Overview: A system and method for managing heritage based on blockchain technology for secure and transparent data storage.
+	* Innovations: Utilizes blockchain technology for secure and transparent data storage.
+	* Applications: Cultural institutions, museums, and heritage preservation organizations.
+5. **Data Sharing Solution based on Blockchain Technology** (CN109871669B/en, 2023)
+	* Overview: A data sharing solution based on blockchain technology for secure and efficient data sharing.
+	* Innovations: Utilizes blockchain technology for secure and efficient data sharing.
+	* Applications: Data sharing platforms, cloud storage services, and IoT devices.
+6. **Robust ATM Network System and Information Processing Method based on Blockchain** (TWI666902B/en, 2019)
+	* Overview: A robust ATM network system and information processing method based on blockchain technology for secure and efficient financial transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient financial transactions.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+
+**Identity and Authentication**
+
+7. **Distributed Ledger and Blockchain Technology-based Recruitment, Job Searching, and Hiring** (US12260466B2/en, 2025)
+	* Overview: A distributed ledger and blockchain technology-based system for secure and transparent recruitment, job searching, and hiring.
+	* Innovations: Utilizes blockchain technology for secure and transparent recruitment, job searching, and hiring.
+	* Applications: Human resources management systems, recruitment agencies, and job search platforms.
+8. **Fine-grained Cloud Storage Access Control Method, System and Equipment based on Blockchain Technology** (CN114065265B/en, 2024)
+	* Overview: A fine-grained cloud storage access control method, system, and equipment based on blockchain technology for secure and efficient data access control.
+	* Innovations: Utilizes blockchain technology for secure and efficient data access control.
+	* Applications: Cloud storage services, data sharing platforms, and IoT devices.
+9. **Semi-centralized Identity Management Method based on Blockchain Technology** (CN109922039B/en, 2021)
+	* Overview: A semi-centralized identity management method based on blockchain technology for secure and efficient identity management.
+	* Innovations: Utilizes blockchain technology for secure and efficient identity management.
+	* Applications: Identity management systems, authentication platforms, and online services.
+
+**Internet of Things (IoT) and Smart Systems**
+
+10. **Container Cloud Management System based on Blockchain Technology** (CN113169952B/en, 2022)
+	* Overview: A container cloud management system based on blockchain technology for secure and efficient container management.
+	* Innovations: Utilizes blockchain technology for secure and efficient container management.
+	* Applications: Containerization platforms, cloud storage services, and IoT devices.
+11. **Vehicle Communication Method based on Blockchain Technology in Vehicle Self-organizing Network** (CN107508859B/en, 2020)
+	* Overview: A vehicle communication method based on blockchain technology for secure and efficient vehicle communication.
+	* Innovations: Utilizes blockchain technology for secure and efficient vehicle communication.
+	* Applications: Vehicle-to-vehicle communication systems, vehicle-to-infrastructure communication systems, and smart traffic management systems.
+12. **A Data Rights Confirmation Method and System based on Blockchain Technology** (CN112651052B/en, 2024)
+	* Overview: A data rights confirmation method and system based on blockchain technology for secure and efficient data rights management.
+	* Innovations: Utilizes blockchain technology for secure and efficient data rights management.
+	* Applications: Data management systems, data sharing platforms, and IoT devices.
+
+**Other Applications**
+
+13. **Secure Messaging Service with Digital Rights Management Using Blockchain Technology** (US20240419766A1/en, 2024)
+	* Overview: A secure messaging service with digital rights management using blockchain technology for secure and efficient messaging.
+	* Innovations: Utilizes blockchain technology for secure and efficient messaging.
+	* Applications: Messaging platforms, email services, and online communication systems.
+14. **Method and Device for Fast Confirmation of Transaction based on Blockchain Technology** (CN109360100B/en, 2020)
+	* Overview: A method and device for fast confirmation of transactions based on blockchain technology for secure and efficient transaction processing.
+	* Innovations: Utilizes blockchain technology for secure and efficient transaction processing.
+	* Applications: Financial institutions, e-commerce platforms, and online payment systems.
+15. **Privacy Protection Transaction Method based on Blockchain Technology in e-commerce** (CN108389046B/en, 2020)
+	* Overview: A privacy protection transaction method based on blockchain technology for secure and efficient e-commerce transactions.
+	* Innovations: Utilizes blockchain technology for secure and efficient e-commerce transactions.
+	* Applications: E-commerce platforms, online payment systems, and financial institutions.
+
+This report provides a comprehensive summary of the innovations and applications of blockchain technology in various fields. The patents analyzed demonstrate the potential of blockchain technology to enhance security, efficiency, and transparency in various industries."

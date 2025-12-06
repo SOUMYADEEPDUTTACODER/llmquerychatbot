@@ -1,0 +1,2501 @@
+Timestamp,Query,Patent Number,Title,Abstract,Date,Assignee,Summary
+2025-12-06T13:37:25.113424,machine learning,patent/US12438891B1/en,Anomaly detection based on ensemble machine learning model,"accessing the entity profile to read the plurality of features scores for the entity; processing the plurality of feature scores for the entity, accessed from the entity profile, by using a plurality of machine-learning models; generating a plurality of intermediate anomaly scores for the entity, …",2025-10-07,Splunk Inc.,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11694122B2/en,"Distributed machine learning systems, apparatus, and methods","A distributed, online machine learning system is presented. Contemplated systems include many private data servers, each having local private data. Researchers can request that relevant private data servers train implementations of machine learning algorithms on their local private data without …",2023-07-04,"Nantomics, Llc","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11768636B2/en,Generating a transformed dataset for use by a machine learning model in an …,"storing, within one or more storage systems, a transformed dataset generated by applying one or more transformations to a dataset that are identified based on one or more expected input formats of data received as input data by one or more machine learning models to be executed on one or more …",2023-09-26,"Pure Storage, Inc.","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US12373428B2/en,Machine learning models in an artificial intelligence infrastructure,"storing, within the one or more storage systems, the hash value. 4. The method of claim 1 further comprising: identifying differences between the current version of the machine learning model and the previous versions of the machine learning model. 5. The method of claim 1 further comprising:",2025-07-29,"Pure Storage, Inc.","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US20230316076A1/en,Unsupervised Machine Learning System to Automate Functions On a Graph Structure,"train, for a first entity type, a first artificial neural network for machine learning executing on one or more first computing devices, wherein the first artificial neural network comprises a plurality of nodes, and wherein the plurality of nodes are configured based on a first portion of the data …",2023-10-05,Bank Of America Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US12299561B2/en,On-the-fly deep learning in machine learning for autonomous machines,"receiving selection of a topology for a first machine learning model for use with a machine learning framework, the machine learning framework to provide machine learning primitives that are accelerated via a general-purpose graphics processor, wherein the first machine learning model comprises a …",2025-05-13,Intel Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11645548B1/en,Automated cloud data and technology solution delivery using machine learning …,analyze the input current data and/or architecture state information using a first machine learning model trained by accessing codified knowledge; receive input future data and architecture state information; analyze the input future data and/or architecture state information using a second machine …,2023-05-09,"Mckinsey &amp; Company, Inc.","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US12314060B2/en,Value chain network planning using machine learning and digital twin simulation,"providing, by the computing device, the information to a set of machine learning models and a value chain network digital twin; training, by the computing device, at least one machine learning model of the set of machine learning models using an output generated from execution of at least one …",2025-05-27,"Strong Force Vcn Portfolio 2019, Llc","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/AU2022433637B2/en,Failure prediction in a computing system based on machine learning applied to …,receive the operational alert data obtained from the further computing system; receive the operational alert data obtained from the further computing system; apply the machine learning model to the operational alert data; and apply the machine learning model to the operational alert data; and …,2025-08-21,"Servicenow, Inc.","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11436615B2/en,System and method for blockchain transaction risk management using machine …,"8. The method of claim 1 , wherein the machine learning classification model is a behavior based model comprising: recognizing behavioral characteristics in at least one feature category for an entity, wherein the feature categories include: a statistics feature category; a topology feature category …",2022-09-06,Anchain.ai Inc.,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US10679100B2/en,Systems and methods for intelligently curating machine learning training data …,calculating the coverage metric value for the corpora of raw machine learning training data based on the coverage metric value for each of the plurality of distinct corpus of machine learning training data within the corpora; identifies whether to train at least one machine learning classifier of …,2020-06-09,"Clinc, Inc.","**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11593634B2/en,Asynchronously training machine learning models across client devices for …,"6. A system for asynchronously training machine learning models across client devices while preserving client data privacy comprising: at least one processor; and at least one non-transitory computer memory comprising a global machine learning model and instructions that, when executed by at least …",2023-02-28,Adobe Inc.,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/AU2020368222B2/en,Adding adversarial robustness to trained machine learning models,Method and system are provided for securing trained machine learning models by one or more processors in a computing system. One or more hardened machine learning models are secured against adversarial attacks by adding adversarial protection to one or more trained machine learning model.,2023-11-23,International Business Machines Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11526713B2/en,Embedding human labeler influences in machine learning interfaces in computing …,obtaining a second score from the second machine learning model associated with the human labeler data; averaging the first and second scores; and maintaining the averaged first and second scores at the one or more databases to be applied to subsequent trainings of the separate machine learning …,2022-12-13,Intel Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US12190254B2/en,Chatbot for defining a machine learning (ML) solution,"identifying, using metadata associated with each machine-learning-model framework of a set of machine-learning-model frameworks, one or more machine-learning-model frameworks based on the predicted type of desired result, wherein the one or more machine-learning-model frameworks are of the set of …",2025-01-07,Oracle International Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US12118474B2/en,Techniques for adaptive pipelining composition for machine learning (ML),"storing the second machine learning model in a memory. 3. The method of claim 1 , wherein the replacing the first machine learning model with the second machine learning model is performed in a shadow mode until it the second machine learning model satisfies one or more conditions for auto-promoting …",2024-10-15,Oracle International Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US12314318B2/en,Enhanced searching using fine-tuned machine learning models,"Disclosed herein are various examples of systems and methods for a generative artificial intelligence (GenAI) based search system that leverages machine learning models to optimize automated data generation, model compression, and reward modeling enhancements that provide for summarization, as well …",2025-05-27,Snowflake Inc.,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11625648B2/en,Techniques for adaptive pipelining composition for machine learning (ML),wherein the first metadata comprises at least one of a number of levels for a decision tree and a number of parameters of an algorithm for the second machine learning model. 15. A system for automatically composing a machine learning pipeline for use in a production environment executed as a …,2023-04-11,Oracle International Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/EP4028874B1/en,… for adaptive and context-aware automated service composition for machine …,"Receiving (1702), from a user, a first input, wherein the first input identifies a location of data; receiving (1704), from the user, a second input, wherein the second input describes a prediction for the machine learning application; receiving (1706), from the user, a third input, wherein the …",2025-09-03,Oracle International Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
+2025-12-06T13:37:25.113424,machine learning,patent/US11748648B2/en,Quantum pulse optimization using machine learning,"15. A computer program product for facilitating quantum pulse optimization using machine learning, the computer program product comprising a computer readable storage medium having program instructions embodied therewith, the program instructions executable by a processor to cause the processor to:",2023-09-05,International Business Machines Corporation,"**Patent Analysis Summary**
+
+The provided patents cover various aspects of machine learning, including anomaly detection, distributed machine learning systems, data transformation, machine learning model management, and applications in areas such as blockchain, autonomous machines, and quantum computing.
+
+**Patent 1: Anomaly Detection Based on Ensemble Machine Learning Model (US12438891B1)**
+
+* Overview: This patent covers an anomaly detection system that uses an ensemble machine learning model to identify unusual patterns in data.
+* Key Innovations: The system processes feature scores from multiple machine learning models to generate intermediate anomaly scores.
+* Potential Applications: Anomaly detection in financial transactions, network security, and quality control.
+
+**Patent 2: Distributed Machine Learning Systems (US11694122B2)**
+
+* Overview: This patent presents a distributed online machine learning system that enables researchers to train machine learning algorithms on private data without sharing the data.
+* Key Innovations: The system uses private data servers and enables researchers to request training on local data.
+* Potential Applications: Secure machine learning in industries such as healthcare and finance.
+
+**Patent 3: Generating a Transformed Dataset for Machine Learning Models (US11768636B2)**
+
+* Overview: This patent covers a system for generating transformed datasets for machine learning models based on expected input formats.
+* Key Innovations: The system applies transformations to datasets to match expected input formats for machine learning models.
+* Potential Applications: Data preprocessing for machine learning models in various industries.
+
+**Patent 4: Machine Learning Models in an Artificial Intelligence Infrastructure (US12373428B2)**
+
+* Overview: This patent covers a system for managing machine learning models in an artificial intelligence infrastructure.
+* Key Innovations: The system identifies differences between current and previous versions of machine learning models.
+* Potential Applications: Model management in artificial intelligence systems.
+
+**Patent 5: Unsupervised Machine Learning System to Automate Functions on a Graph Structure (US20230316076A1)**
+
+* Overview: This patent presents an unsupervised machine learning system that automates functions on a graph structure.
+* Key Innovations: The system uses artificial neural networks to identify patterns in data.
+* Potential Applications: Automated data processing and analysis in industries such as finance and healthcare.
+
+**Patent 6: On-the-Fly Deep Learning in Machine Learning for Autonomous Machines (US12299561B2)**
+
+* Overview: This patent covers a system for on-the-fly deep learning in machine learning for autonomous machines.
+* Key Innovations: The system accelerates machine learning primitives using a general-purpose graphics processor.
+* Potential Applications: Autonomous machines in industries such as transportation and logistics.
+
+**Patent 7: Automated Cloud Data and Technology Solution Delivery Using Machine Learning (US11645548B1)**
+
+* Overview: This patent presents a system for automated cloud data and technology solution delivery using machine learning.
+* Key Innovations: The system uses machine learning models to analyze current and future data and architecture state information.
+* Potential Applications: Automated cloud solution delivery in industries such as finance and healthcare.
+
+**Patent 8: Value Chain Network Planning Using Machine Learning and Digital Twin Simulation (US12314060B2)**
+
+* Overview: This patent covers a system for value chain network planning using machine learning and digital twin simulation.
+* Key Innovations: The system uses machine learning models to identify differences between current and previous versions of machine learning models.
+* Potential Applications: Value chain network planning in industries such as manufacturing and logistics.
+
+**Patent 9: Failure Prediction in a Computing System Based on Machine Learning Applied to Operational Alert Data (AU2022433637B2)**
+
+* Overview: This patent presents a system for failure prediction in a computing system based on machine learning applied to operational alert data.
+* Key Innovations: The system uses machine learning models to identify patterns in operational alert data.
+* Potential Applications: Failure prediction in industries such as finance and healthcare.
+
+**Patent 10: System and Method for Blockchain Transaction Risk Management Using Machine Learning (US11436615B2)**
+
+* Overview: This patent covers a system and method for blockchain transaction risk management using machine learning.
+* Key Innovations: The system uses machine learning models to identify behavioral characteristics in entities.
+* Potential Applications: Blockchain transaction risk management in industries such as finance and cryptocurrency.
+
+**Patent 11: Systems and Methods for Intelligently Curating Machine Learning Training Data (US10679100B2)**
+
+* Overview: This patent presents systems and methods for intelligently curating machine learning training data.
+* Key Innovations: The system calculates coverage metric values for corpora of raw machine learning training data.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 12: Asynchronously Training Machine Learning Models Across Client Devices for Preserving Client Data Privacy (US11593634B2)**
+
+* Overview: This patent covers a system for asynchronously training machine learning models across client devices while preserving client data privacy.
+* Key Innovations: The system uses a global machine learning model and instructions to preserve client data privacy.
+* Potential Applications: Machine learning model training in industries such as finance and healthcare.
+
+**Patent 13: Adding Adversarial Robustness to Trained Machine Learning Models (AU2020368222B2)**
+
+* Overview: This patent presents a method and system for securing trained machine learning models against adversarial attacks.
+* Key Innovations: The system adds adversarial protection to trained machine learning models.
+* Potential Applications: Secure machine learning in industries such as finance and healthcare.
+
+**Patent 14: Embedding Human Labeler Influences in Machine Learning Interfaces in Computing Systems (US11526713B2)**
+
+* Overview: This patent covers a system for embedding human labeler influences in machine learning interfaces in computing systems.
+* Key Innovations: The system uses machine learning models to identify patterns in human labeler data.
+* Potential Applications: Human-in-the-loop machine learning in industries such as finance and healthcare.
+
+**Patent 15: Chatbot for Defining a Machine Learning (ML) Solution (US12190254B2)**
+
+* Overview: This patent presents a chatbot for defining a machine learning solution.
+* Key Innovations: The chatbot uses metadata to identify machine learning model frameworks.
+* Potential Applications: Machine learning solution definition in industries such as finance and healthcare.
+
+**Patent 16: Techniques for Adaptive Pipelining Composition for Machine Learning (US12118474B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 17: Enhanced Searching Using Fine-Tuned Machine Learning Models (US12314318B2)**
+
+* Overview: This patent presents a system for enhanced searching using fine-tuned machine learning models.
+* Key Innovations: The system uses machine learning models to optimize automated data generation and model compression.
+* Potential Applications: Search optimization in industries such as finance and healthcare.
+
+**Patent 18: Techniques for Adaptive Pipelining Composition for Machine Learning (US11625648B2)**
+
+* Overview: This patent covers techniques for adaptive pipelining composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Adaptive machine learning in industries such as finance and healthcare.
+
+**Patent 19: System and Method for Adaptive and Context-Aware Automated Service Composition for Machine Learning (EP4028874B1)**
+
+* Overview: This patent presents a system and method for adaptive and context-aware automated service composition for machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Automated service composition in industries such as finance and healthcare.
+
+**Patent 20: Quantum Pulse Optimization Using Machine Learning (US11748648B2)**
+
+* Overview: This patent covers a system for quantum pulse optimization using machine learning.
+* Key Innovations: The system uses machine learning models to identify patterns in data.
+* Potential Applications: Quantum computing optimization in industries such as finance and healthcare.
+
+These patents highlight the rapid advancements in machine learning and its applications in various industries. The innovations and features presented in these patents have the potential to revolutionize the way we approach machine learning and its applications."
