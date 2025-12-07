@@ -3,55 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Natural Language Database Interaction</title>
+    <title>Antigravity Chat</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-
 </head>
 <body>
-    <div class="container">
-        <h1>Natural Language Database Interaction</h1>
-        
-        <div class="setup-container">
-            <button id="setup-db">Setup Sample Database</button>
-            
-            <div class="upload-container">
-                <label for="csv-file" class="upload-label">Choose CSV File</label>
-                <input type="file" id="csv-file" accept=".csv" hidden>
-                <button id="import-csv">Import CSV</button>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <span class="logo-icon"></span>
+                    <span class="logo-text">Antigravity</span>
+                </div>
+                <button class="new-chat-btn" id="new-chat-btn">
+                    <span>+</span> New Chat
+                </button>
             </div>
+
+            <nav class="sidebar-nav">
+                <div class="nav-section">
+                    <div class="nav-label">MODE</div>
+                    <button class="nav-item active" data-mode="database" id="mode-database">
+                        <span class="nav-icon"></span> Database
+                    </button>
+                    <button class="nav-item" data-mode="serpapi" id="mode-serpapi">
+                        <span class="nav-icon"></span> Web Search
+                    </button>
+                </div>
+
+                <div class="nav-section">
+                    <div class="nav-label">DATA SOURCES</div>
+                    <div id="collections-list" class="collections-list">
+                        <!-- Collections will be injected here -->
+                        <div class="collection-item empty">No data loaded</div>
+                    </div>
+                    <label for="csv-file" class="add-data-btn">
+                        <span>+</span> Add CSV Data
+                    </label>
+                    <input type="file" id="csv-file" accept=".csv" hidden>
+                </div>
+            </nav>
             
-            <div id="setup-message" class="message"></div>
-            <div id="import-message" class="message"></div>
-        </div>
-        
-        <div class="chat-container">
-            <div class="chat-messages" id="chat-messages">
-                <div class="message system">
-                    Hello! I can help you query the database using natural language. Try asking something like:
-                    <ul>
-                        <li>Show me all products in the Electronics category</li>
-                        <li>How many customers are older than 30?</li>
-                        <li>What is the average price of furniture items?</li>
-                        <li>Find customers who spent more than 3000</li>
-                    </ul>
+            <div class="sidebar-footer">
+                <div class="user-profile">
+                    <div class="avatar">U</div>
+                    <div class="user-info">
+                        <div class="user-name">User</div>
+                        <div class="user-status">Pro Plan</div>
+                    </div>
                 </div>
             </div>
-            
-            <div class="chat-input">
-                <input type="text" id="user-input" placeholder="Ask a question about the database...">
-                <button id="send-button">Send</button>
-            </div>
-        </div>
-        
-        <div class="info-container">
-            <div class="query-info">
-                <h3>MongoDB Query</h3>
-                <pre id="query-display"></pre>
-            </div>
-        </div>
-    </div>
-    
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
+        </aside>
 
+        <!-- Main Chat Area -->
+        <main class="main-content">
+            <!-- Top Bar (Mobile/Title) -->
+            <div class="top-bar">
+                <button class="mobile-menu-btn" id="mobile-menu-btn"></button>
+                <span class="current-mode-title">Database Mode</span>
+            </div>
+
+            <!-- Chat Container -->
+            <div class="chat-container" id="chat-container">
+                <!-- Welcome Screen (shown when empty) -->
+                <div class="welcome-screen" id="welcome-screen">
+                    <div class="welcome-icon"></div>
+                    <h2>How can I help you today?</h2>
+                    <!-- Suggestions grid removed -->
+                </div>
+
+                <!-- Messages -->
+                <div class="messages-wrapper" id="messages-wrapper">
+                    <!-- Messages will be injected here -->
+                </div>
+                
+                <div id="processing-indicator" class="processing-indicator hidden">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="input-area">
+                <div class="input-container">
+                    <textarea id="user-input" placeholder="Message Antigravity..." rows="1"></textarea>
+                    <button id="send-btn" class="send-btn" disabled>
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M2.01 21L23 12L2.01 3L2 10L17 12L2 14L2.01 21Z" fill="currentColor"/>
+                        </svg>
+                    </button>
+                </div>
+                <div class="input-footer">
+                    Antigravity can make mistakes. Consider checking important information.
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast hidden"></div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>

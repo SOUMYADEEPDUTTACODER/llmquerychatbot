@@ -87,17 +87,24 @@ def log_interaction(question: str, query_obj: dict, result: Any, csv_path=LOG_CS
 # ---------------------- CORE LLM HANDLER ------------------------
 
 def generate_mongo_query(user_question: str) -> Dict[str, Any]:
-    """Use Groq LLaMA model to convert a user question into a MongoDB query."""
+    """Use Groq LLaMA model to convert a user question into a MongoDB query that can be applied to all collections."""
+    collections = get_collection_names()
+    if not collections:
+        raise ValueError("No collections found in database. Please import CSV data or setup sample database first.")
+    
     schema_context = "\n".join(
         [f"- {c}: {list(db[c].find_one().keys()) if db[c].count_documents({}) > 0 else 'empty'}"
-         for c in get_collection_names()]
+         for c in collections]
     )
 
     system_prompt = f"""
 You are a MongoDB query generator. Given the database schema context below,
 convert the user's natural language question into a valid MongoDB JSON query object ONLY, with no explanation.
 
-You may assume the user only needs to query a single collection.
+IMPORTANT: The query should be designed to search across ALL collections in the database. 
+The query filter should be generic enough to work on any collection that might contain relevant data.
+
+Available Collections: {', '.join(collections)}
 
 Database Context:
 {schema_context}
@@ -105,9 +112,8 @@ Database Context:
 Natural Language Question:
 {user_question}
 
-Output JSON format exactly:
+Output JSON format exactly (do NOT include collection field, as it will be applied to all collections):
 {{
-  "collection": "name_of_collection",
   "operation": "find" | "aggregate" | "count",
   "filter": {{ }},
   "projection": {{ }} (optional),
@@ -118,7 +124,7 @@ Output JSON format exactly:
     response = client.chat.completions.create(
         model=LLAMA_MODEL,
         messages=[
-            {"role": "system", "content": "You are a helpful MongoDB query generator."},
+            {"role": "system", "content": "You are a helpful MongoDB query generator that searches across all collections."},
             {"role": "user", "content": system_prompt},
         ],
         temperature=0.2,
@@ -133,10 +139,7 @@ Output JSON format exactly:
     except json.JSONDecodeError:
         raise ValueError(f"❌ LLM returned invalid JSON: {raw_output}")
 
-    # Validate query structure
-    valid_collections = get_collection_names()
-    if mongo_query.get("collection") not in valid_collections:
-        raise ValueError(f"Invalid collection in query: {mongo_query.get('collection')}")
+    # Validate query structure (no collection field needed)
     if mongo_query.get("operation") not in {"find", "count", "aggregate"}:
         raise ValueError(f"Invalid operation: {mongo_query.get('operation')}")
 
@@ -152,45 +155,103 @@ Output JSON format exactly:
 
 
 def execute_mongo_query(query_obj: Dict[str, Any]):
-    """Execute validated MongoDB query and return result."""
-    collection = db[query_obj["collection"]]
+    """Execute validated MongoDB query across ALL collections and return combined results."""
     operation = query_obj["operation"]
-
-    if operation == "find":
-        cursor = collection.find(query_obj.get("filter", {}), query_obj.get("projection"))
-        return list(cursor)
-    elif operation == "count":
-        return collection.count_documents(query_obj.get("filter", {}))
-    elif operation == "aggregate":
-        return list(collection.aggregate(query_obj.get("pipeline", [])))
-    else:
-        raise ValueError(f"Unsupported operation: {operation}")
+    all_collections = get_collection_names()
+    
+    if not all_collections:
+        return []
+    
+    combined_results = []
+    
+    for collection_name in all_collections:
+        collection = db[collection_name]
+        
+        try:
+            if operation == "find":
+                cursor = collection.find(query_obj.get("filter", {}), query_obj.get("projection"))
+                results = list(cursor)
+                # Add collection name to each result
+                for result in results:
+                    result["_collection"] = collection_name
+                combined_results.extend(results)
+            elif operation == "count":
+                count = collection.count_documents(query_obj.get("filter", {}))
+                if count > 0:
+                    combined_results.append({
+                        "_collection": collection_name,
+                        "count": count
+                    })
+            elif operation == "aggregate":
+                results = list(collection.aggregate(query_obj.get("pipeline", [])))
+                # Add collection name to each result
+                for result in results:
+                    result["_collection"] = collection_name
+                combined_results.extend(results)
+        except Exception as e:
+            logging.warning(f"Error querying collection '{collection_name}': {e}")
+            continue
+    
+    return combined_results
 
 
 def answer_user_question(user_question: str) -> Dict[str, Any]:
     """Main entrypoint: handles question → query → result → log."""
     logging.info(f"🧠 Processing question: {user_question}")
 
-    # Step 1: Generate query from LLM
+    # Step 1: Generate query from LLM (for all collections)
     mongo_query = generate_mongo_query(user_question)
-    logging.info(f"📝 Generated MongoDB query: {mongo_query}")
+    logging.info(f"📝 Generated MongoDB query (for all collections): {mongo_query}")
 
-    # Step 2: Execute safely
+    # Step 2: Execute safely across all collections
     result = execute_mongo_query(mongo_query)
-    logging.info(f"✅ Query executed successfully.")
+    collections_searched = get_collection_names()
+    
+    # Count results per collection
+    results_by_collection = {}
+    if isinstance(result, list):
+        for item in result:
+            coll_name = item.get("_collection", "unknown")
+            results_by_collection[coll_name] = results_by_collection.get(coll_name, 0) + 1
+    
+    logging.info(f"✅ Query executed successfully across {len(collections_searched)} collection(s). Found {len(result)} total results.")
+    logging.info(f"📊 Results by collection: {results_by_collection}")
 
     # Step 3: Convert to JSON-safe format
     safe_result = make_json_safe(result)
 
-    # Step 4: Log everything
-    log_interaction(user_question, mongo_query, safe_result)
+    # Step 4: Log everything (add collection info to query for logging)
+    query_for_log = mongo_query.copy()
+    query_for_log["collections_searched"] = collections_searched
+    log_interaction(user_question, query_for_log, safe_result)
 
-    # Step 5: Return clean data to frontend
+    # Step 5: Create enhanced summary with collection information
+    if isinstance(result, list):
+        if len(result) == 0:
+            summary = f"No results found across {len(collections_searched)} collection(s): {', '.join(collections_searched)}"
+        else:
+            collection_info = ", ".join([f"{coll}: {count}" for coll, count in results_by_collection.items()])
+            summary = f"Found {len(result)} result(s) across {len(results_by_collection)} collection(s) ({collection_info}). Searched all {len(collections_searched)} collection(s): {', '.join(collections_searched)}"
+    else:
+        summary = summarize_result(result)
+    
+    # Step 6: Return clean data to frontend
+    # Return all results (not just sample) since we're searching across collections
+    # Limit to 100 results max for performance, but show all if less than 100
+    if isinstance(safe_result, list):
+        display_results = safe_result[:100] if len(safe_result) > 100 else safe_result
+    else:
+        display_results = safe_result
+    
     return {
         "question": user_question,
         "query": mongo_query,
-        "result_summary": summarize_result(result),
-        "sample_result": safe_result[:3] if isinstance(safe_result, list) else safe_result,
+        "result_summary": summary,
+        "result": display_results,  # Return all results (up to 100)
+        "sample_result": display_results,  # Also include as sample_result for backward compatibility
+        "total_results": len(safe_result) if isinstance(safe_result, list) else 1,
+        "collections_searched": collections_searched,
+        "results_by_collection": results_by_collection,
     }
 
 

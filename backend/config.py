@@ -11,6 +11,17 @@ env_path = os.path.join(base_dir, '.env')
 load_dotenv(env_path, override=True)
 
 # ---------------------------------------------------------
+# Helper Functions
+# ---------------------------------------------------------
+def safe_key(api_key: str) -> str:
+    """Return a partially masked API key for logging."""
+    if not api_key:
+        return "NOT SET"
+    if len(api_key) < 8:
+        return "******"
+    return api_key[:4] + "..." + api_key[-4:]
+
+# ---------------------------------------------------------
 # MongoDB Configuration
 # ---------------------------------------------------------
 MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
@@ -20,6 +31,7 @@ MONGO_DB = os.getenv("MONGO_DB", "llm_chatbot_db")
 # Groq LLM Configuration
 # ---------------------------------------------------------
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+SERPAPI_API_KEY = os.getenv("SERPAPI_API_KEY")
 
 # ✅ Use base Groq endpoint — don't duplicate /openai/v1
 GROQ_BASE_URL = os.getenv("GROQ_BASE_URL", "https://api.groq.com")
@@ -45,13 +57,7 @@ LOG_CSV_PATH = os.getenv("LOG_CSV_PATH", os.path.join(base_dir, "csv", "llm_logs
 # Validation
 # ---------------------------------------------------------
 if not GROQ_API_KEY:
-    raise ValueError("❌ Missing GROQ_API_KEY in .env file!")
-
-def safe_key(api_key: str) -> str:
-    """Return a partially masked API key for logging."""
-    if not api_key:
-        return "NOT SET"
-    return api_key[:4] + "..." + api_key[-4:]
+    print("⚠️ WARNING: Missing GROQ_API_KEY in .env file!")
 
 # ---------------------------------------------------------
 # Startup summary for visibility
@@ -60,7 +66,6 @@ print("✅ Loaded configuration:")
 print(f" - MongoDB URI: {MONGO_URI}")
 print(f" - Database: {MONGO_DB}")
 print(f" - LLM Model: {LLAMA_MODEL}")
-print(f" - Groq Base URL: {GROQ_BASE_URL}")
 print(f" - Groq Key: {safe_key(GROQ_API_KEY)}")
+print(f" - SerpAPI Key: {safe_key(SERPAPI_API_KEY)}")
 print(f" - Log CSV Path: {LOG_CSV_PATH}")
-print(f" - Env Path: {env_path}")
