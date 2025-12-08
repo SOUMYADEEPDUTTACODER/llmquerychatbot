@@ -97,7 +97,10 @@ def generate_mongo_query(user_question: str) -> Dict[str, Any]:
 You are a MongoDB query generator. Given the database schema context below,
 convert the user's natural language question into a valid MongoDB JSON query object ONLY, with no explanation.
 
-You may assume the user only needs to query a single collection.
+IMPORTANT:
+1. You must choose the most relevant collection from the list provided.
+2. If the user's request implies searching across ALL collections (e.g., "search everywhere", "find in all files"), set "collection" to "ALL_COLLECTIONS".
+3. If the user does not specify a collection, infer the best one based on the schema fields.
 
 Database Context:
 {schema_context}
@@ -107,7 +110,7 @@ Natural Language Question:
 
 Output JSON format exactly:
 {{
-  "collection": "name_of_collection",
+  "collection": "name_of_collection" | "ALL_COLLECTIONS",
   "operation": "find" | "aggregate" | "count",
   "filter": {{ }},
   "projection": {{ }} (optional),
@@ -135,8 +138,14 @@ Output JSON format exactly:
 
     # Validate query structure
     valid_collections = get_collection_names()
-    if mongo_query.get("collection") not in valid_collections:
-        raise ValueError(f"Invalid collection in query: {mongo_query.get('collection')}")
+    target_col = mongo_query.get("collection")
+    
+    if target_col != "ALL_COLLECTIONS" and target_col not in valid_collections:
+        # Fallback: if LLM hallucinates a name, try to find a partial match or default to first
+        # For now, just raise error or maybe pick the first one?
+        # Let's be strict but helpful in error message
+        raise ValueError(f"Invalid collection in query: {target_col}. Available: {valid_collections}")
+
     if mongo_query.get("operation") not in {"find", "count", "aggregate"}:
         raise ValueError(f"Invalid operation: {mongo_query.get('operation')}")
 
@@ -153,8 +162,50 @@ Output JSON format exactly:
 
 def execute_mongo_query(query_obj: Dict[str, Any]):
     """Execute validated MongoDB query and return result."""
-    collection = db[query_obj["collection"]]
+    target_col = query_obj["collection"]
     operation = query_obj["operation"]
+    
+    # --- Handle "ALL_COLLECTIONS" Strategy ---
+    if target_col == "ALL_COLLECTIONS":
+        all_results = []
+        valid_collections = get_collection_names()
+        
+        for col_name in valid_collections:
+            collection = db[col_name]
+            try:
+                if operation == "find":
+                    # We limit per collection to avoid massive dumps
+                    cursor = collection.find(query_obj.get("filter", {}), query_obj.get("projection")).limit(20)
+                    results = list(cursor)
+                    # Tag results with source collection
+                    for r in results:
+                        r["_source_collection"] = col_name
+                    all_results.extend(results)
+                    
+                elif operation == "count":
+                    count = collection.count_documents(query_obj.get("filter", {}))
+                    all_results.append({"collection": col_name, "count": count})
+                    
+                elif operation == "aggregate":
+                    # Aggregation might be tricky across collections if schemas differ
+                    # We'll try running it and ignore failures
+                    res = list(collection.aggregate(query_obj.get("pipeline", [])))
+                    for r in res:
+                        r["_source_collection"] = col_name
+                    all_results.extend(res)
+            except Exception as e:
+                logging.warning(f"Query failed for collection {col_name}: {e}")
+                continue
+        
+        # If it was a count operation, we might want to sum them up or return the breakdown
+        if operation == "count":
+            total = sum(item['count'] for item in all_results)
+            return {"total_count": total, "breakdown": all_results}
+            
+        return all_results
+
+    # --- Handle Single Collection ---
+    collection = db[target_col]
 
     if operation == "find":
         cursor = collection.find(query_obj.get("filter", {}), query_obj.get("projection"))

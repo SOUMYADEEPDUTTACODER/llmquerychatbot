@@ -36,7 +36,7 @@ def get_database():
         logging.info("🔗 Connecting to MongoDB...")
         mongo_client = pymongo.MongoClient(
             MONGO_URI,
-            serverSelectionTimeoutMS=5000,  # 5 seconds timeout
+            serverSelectionTimeoutMS=5050,  # 5 seconds timeout
         )
 
         # Check connection

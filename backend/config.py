@@ -34,7 +34,7 @@ LLAMA_MODEL = os.getenv("LLAMA_MODEL", "llama-3.1-8b-instant")
 # ---------------------------------------------------------
 FLASK_ENV = os.getenv("FLASK_ENV", "development")
 FLASK_DEBUG = os.getenv("FLASK_DEBUG", "True").lower() in ("true", "1", "yes")
-PORT = int(os.getenv("PORT", 5000))
+PORT = int(os.getenv("PORT", 5050))
 
 # ---------------------------------------------------------
 # CSV Logging Configuration

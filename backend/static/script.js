@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
   const setupDbButton = document.getElementById('setup-db');
   const importCsvButton = document.getElementById('import-csv');
   const csvFileInput = document.getElementById('csv-file');
@@ -10,34 +10,29 @@ document.addEventListener('DOMContentLoaded', function() {
   const queryDisplay = document.getElementById('query-display');
 
   // === Setup sample database ===
-  setupDbButton.addEventListener('click', async function() {
-    setupMessage.textContent = 'Setting up sample database...';
-    setupMessage.style.backgroundColor = '#e0f7fa';
+  setupDbButton.addEventListener('click', async function () {
+    setupMessage.innerHTML = '<span style="color: #94a3b8;">Setting up...</span>';
 
     try {
       const response = await fetch('/api/setup', { method: 'POST' });
       const data = await response.json();
       if (!response.ok) throw new Error(data.error || 'Setup failed');
 
-      setupMessage.textContent = data.message;
-      setupMessage.style.backgroundColor = '#e8f5e9';
+      setupMessage.innerHTML = `<span style="color: var(--success);"><i class="fa-solid fa-check"></i> ${data.message}</span>`;
     } catch (error) {
-      setupMessage.textContent = 'Failed to setup database: ' + error.message;
-      setupMessage.style.backgroundColor = '#ffebee';
+      setupMessage.innerHTML = `<span style="color: var(--error);"><i class="fa-solid fa-triangle-exclamation"></i> ${error.message}</span>`;
     }
   });
 
   // === Handle CSV upload and import ===
-  importCsvButton.addEventListener('click', async function() {
+  importCsvButton.addEventListener('click', async function () {
     const file = csvFileInput.files[0];
     if (!file) {
-      importMessage.textContent = 'Please select a CSV file first.';
-      importMessage.style.backgroundColor = '#fff3e0';
+      importMessage.innerHTML = '<span style="color: #fbbf24;">Please select a CSV file first.</span>';
       return;
     }
 
-    importMessage.textContent = 'Uploading and importing CSV...';
-    importMessage.style.backgroundColor = '#e0f7fa';
+    importMessage.innerHTML = '<span style="color: #94a3b8;">Importing...</span>';
 
     const formData = new FormData();
     formData.append('file', file);
@@ -50,16 +45,23 @@ document.addEventListener('DOMContentLoaded', function() {
       const data = await response.json();
       if (!response.ok) throw new Error(data.error || 'CSV import failed');
 
-      importMessage.textContent = `✅ CSV imported successfully into collection: ${data.collection}`;
-      importMessage.style.backgroundColor = '#e8f5e9';
+      importMessage.innerHTML = `<span style="color: var(--success);"><i class="fa-solid fa-check"></i> Imported to: ${data.collection}</span>`;
     } catch (error) {
-      importMessage.textContent = '❌ Failed to import CSV: ' + error.message;
-      importMessage.style.backgroundColor = '#ffebee';
+      importMessage.innerHTML = `<span style="color: var(--error);"><i class="fa-solid fa-triangle-exclamation"></i> ${error.message}</span>`;
     }
   });
 
   // === Allow clicking the label to open file picker ===
-  document.querySelector('.upload-label').addEventListener('click', () => csvFileInput.click());
+  // Note: The label 'for' attribute handles this natively, but we keep the listener if needed for custom behavior.
+  // document.querySelector('.upload-label').addEventListener('click', () => csvFileInput.click());
+
+  // === Suggestion Chips ===
+  document.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      userInput.value = chip.textContent;
+      userInput.focus();
+    });
+  });
 
   // === Send user query ===
   async function sendQuery() {
@@ -68,7 +70,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     addMessage(question, 'user');
     userInput.value = '';
-    const loadingMsgId = addMessage('Processing your question...', 'system');
+
+    // Create loading message
+    const loadingId = addMessage('Thinking...', 'system', true);
 
     try {
       const response = await fetch('/api/query', {
@@ -78,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
 
       const data = await response.json();
-      removeMessage(loadingMsgId);
+      removeMessage(loadingId);
 
       if (!response.ok || data.error) {
         addMessage(`Error: ${data.error}`, 'error');
@@ -86,8 +90,11 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       // === Show parsed query (Mongo/SQL-like) ===
-      if (data.query)
-        queryDisplay.textContent = JSON.stringify(data.query, null, 2);
+      if (data.query) {
+        // Animate the query display
+        const queryText = JSON.stringify(data.query, null, 2);
+        typeWriter(queryDisplay, queryText);
+      }
 
       // === Show result or summary ===
       const results = data.result || data.sample_result || [];
@@ -106,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       addMessage(resultMessage, 'system');
     } catch (error) {
-      removeMessage(loadingMsgId);
+      removeMessage(loadingId);
       addMessage(`Error processing your query: ${error.message}`, 'error');
     }
   }
@@ -115,27 +122,43 @@ document.addEventListener('DOMContentLoaded', function() {
   userInput.addEventListener('keypress', e => e.key === 'Enter' && sendQuery());
 
   // === Safe message rendering ===
-  function addMessage(text, type) {
+  function addMessage(text, type, isLoading = false) {
     const msg = document.createElement('div');
     msg.className = `message ${type}`;
     const id = Date.now().toString();
     msg.id = id;
 
-    // ✅ Safe stringify for non-string inputs
-    if (typeof text !== 'string') {
-      try {
-        text = JSON.stringify(text, null, 2);
-      } catch {
-        text = String(text);
+    // Avatar Icon
+    let avatarIcon = type === 'user' ? '<i class="fa-solid fa-user"></i>' : '<i class="fa-solid fa-robot"></i>';
+    if (type === 'error') avatarIcon = '<i class="fa-solid fa-triangle-exclamation"></i>';
+
+    // Content processing
+    let contentHtml = '';
+
+    if (isLoading) {
+      contentHtml = '<div class="pulse" style="margin: 5px 0;"></div> Processing...';
+    } else {
+      // ✅ Safe stringify for non-string inputs
+      if (typeof text !== 'string') {
+        try {
+          text = JSON.stringify(text, null, 2);
+        } catch {
+          text = String(text);
+        }
+      }
+
+      // ✅ Render HTML tables & result summaries properly
+      if (text.startsWith('<div class="result-summary">') || text.startsWith('<table')) {
+        contentHtml = text;
+      } else {
+        contentHtml = `<p>${escapeHtml(text)}</p>`;
       }
     }
 
-    // ✅ Render HTML tables & result summaries properly
-    if (text.startsWith('<div class="result-summary">') || text.startsWith('<table')) {
-      msg.innerHTML = text;
-    } else {
-      msg.innerHTML = `<pre>${escapeHtml(text)}</pre>`;
-    }
+    msg.innerHTML = `
+        <div class="avatar">${avatarIcon}</div>
+        <div class="content">${contentHtml}</div>
+    `;
 
     chatMessages.appendChild(msg);
     chatMessages.scrollTop = chatMessages.scrollHeight;
@@ -145,6 +168,15 @@ document.addEventListener('DOMContentLoaded', function() {
   function removeMessage(id) {
     const el = document.getElementById(id);
     if (el) el.remove();
+  }
+
+  // === Typewriter Effect for Code ===
+  function typeWriter(element, text, i = 0) {
+    if (i === 0) element.textContent = '';
+    if (i < text.length) {
+      element.textContent += text.charAt(i);
+      setTimeout(() => typeWriter(element, text, i + 1), 5); // Fast typing
+    }
   }
 
   // === Format tabular results + summary + Download button ===
@@ -163,15 +195,10 @@ document.addEventListener('DOMContentLoaded', function() {
     table += `
       <div style="margin-top:10px; text-align:right;">
         <button class="download-csv" style="
-          background:#5e81f4;
-          color:#fff;
-          border:none;
-          border-radius:8px;
-          padding:6px 12px;
-          font-size:0.85rem;
-          cursor:pointer;
-          transition:all 0.2s ease;
-        ">⬇️ Download as CSV</button>
+          background: rgba(255,255,255,0.1);
+          color: #fff;
+          border: 1px solid rgba(255,255,255,0.2);
+        ">⬇️ Download CSV</button>
       </div>`;
 
     // Defer attaching event listener after rendering
